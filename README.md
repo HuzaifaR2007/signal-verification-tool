@@ -23,11 +23,11 @@ The tool computes SNR (dB), FFT peak frequency, and statistical metrics, applies
 
 ### Time-Domain Waveform
 
-![Waveform Example](outputs/plots/waveform_example.png)
+![Waveform Example](docs/waveform_example.png)
 
 ### SNR vs Noise Sweep
 
-![SNR Sweep](outputs/plots/snr_vs_noise.png)
+![SNR Sweep](docs/snr_vs_noise.png)
 
 ---
 
